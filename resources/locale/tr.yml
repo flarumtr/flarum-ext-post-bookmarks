@@ -1,0 +1,20 @@
+clarkwinkelmann-post-bookmarks:
+    forum:
+        button:
+            add: Yer İşareti
+            remove: Yer işareti eklendi
+        alert:
+            added: Yer işareti eklendi!
+            removed: Yer işareti kaldırıldı!
+            show-bookmarks: Yer işaretlerine git
+        badge: Yer işareti eklendi
+        page:
+            link: Yer işaretleri
+            title: Yer işaretleri
+    admin:
+        settings:
+            buttonPosition: Düğme konumu
+            buttonPositionHeader: Yazının üstünde (başlık)
+            buttonPositionActions: Yazının altında (hızlı işlemler)
+            buttonPositionMenu: Gönderi menüsünde (3 nokta)
+            headerBadge: Yer işareti etiketini yer işareti eklenmiş bir gönderinin üzerinde göster
